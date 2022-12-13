@@ -1,0 +1,145 @@
+body{
+	font-family: Arial, Helvetica, sans-serif;
+	padding-top: 0px;
+	margin: 0px 40px 0px 40px;
+}
+*{
+	margin: 0px;
+}
+.ul1{
+	list-style: none;
+	text-align: center;
+	background-color: white;
+	/*box-shadow: 0 0 15px 1px silver;*/
+	padding: 0px;
+}
+.li1{
+	display: inline-block;
+	margin: 5px;
+	padding: 15px;
+	color: silver;
+	font-weight: 600;
+}
+.li1:hover{
+	color: black;
+	font-weight: 600;
+}
+.ndmain{
+	background-color: white;
+	box-shadow: 0 0 15px 1px silver;
+	padding: 0px;
+	height: 60px
+}
+.nd1{
+	height: inherit;
+	width: 27%;
+	float: left;
+	text-align: center;
+	vertical-align: middle;
+	
+}
+.nd2{
+	height: inherit;
+	width: 45%;
+	float: left;
+}
+.nd3{
+	height: inherit;
+	width: 27%;
+	float: right;
+}
+.b1{
+	margin: 10px;
+	padding: 10px;
+	width: 100px;
+	border: 2px solid silver;
+	background-color: transparent;
+	border-radius: 5px;
+	color: #4d4d4d;
+}
+.b2{
+	margin: 10px;
+	padding: 10px;
+	width: 100px;
+	background-color: #ff471a;
+	border-radius: 5px;
+	color: white;
+	border: none;
+}
+.b3{
+	margin: 17px;
+	padding: 15px;
+	width: 120px;
+	background-color: #ff471a;
+	border-radius: 5px;
+	color: white;
+	border: none;
+	float: right;
+}
+.sec2{
+	height: 500px;
+	width: 100%;
+	position: relative;
+}
+.sec2d1{
+	margin-right: 10px;
+	height: inherit;
+	width: 55%;
+	float: left;
+}
+.sec2d2{
+	height: inherit;
+	width: 40%;
+	float: left;
+	background-image: url(../images/background1.jpg);
+	border-radius: 20px;
+    background-size: 600px 500px;
+}
+.p1{
+	color: #ff471a;
+}
+.p2{
+	font-size: 50px;
+	font-weight: bold;
+}
+.p3{
+	color: #4d4d4d;
+	font-size: 15px;
+}
+.nav2{
+	height: 80px;
+	width: 60%;
+	border: 2px solid #f2f2f2;
+	position: absolute;
+	top: 350px;
+	background-color: white;
+	border-radius: 10px;
+}
+.nav3{
+	height: 70px;
+	width: 15%;
+	border: 1px solid #f2f2f2;
+	position: absolute;
+	top: 50px;
+	right: 0px;
+	background-color: white;
+	border-radius: 10px;
+}
+.ul2{
+	list-style: none;
+}
+.li2{
+	display: inline-block;
+	font-weight: bold;
+	padding: 30px;
+	float: left;
+	color: silver;
+}.li2:hover{
+	color: black;
+}
+.checked{
+	color: #ff471a;
+	position: relative;
+	bottom: 22px;
+	left: 52px
+}

@@ -1,0 +1,140 @@
+.nav{
+	height: 60px;
+	width: 1500px;
+	background-color: white;
+	margin-bottom: 5px;
+	color: black;
+}
+.text{
+	width: 505px;
+	height: 380px;
+
+	display: inline-block;
+	float: left;
+	padding-top: 0px;
+	background-color: azure;
+	margin-bottom: 5PX;
+	}
+.c1{
+	padding-top: 70px;
+}	
+.photo{
+	width:982px;
+	height: 380px;
+	
+	display:inline-block;
+	float: right;
+	margin-bottom: 5px;
+	
+    }
+
+	.about{
+	width: 1500px;
+	height: 450px;
+	display: inline-block;
+	background-image: url(image/a.jpg);
+	background-size: cover;
+	margin-bottom: 5px;
+
+}
+.boost{
+	width: 1500px;
+	height: 150px;
+	padding-top: 40px;
+	background-color: azure;
+	margin-bottom: 5px;
+}
+.edu{
+	width: 746px;
+	height: 400px;
+	display: inline-block;
+	float: left;
+	padding-top: 50PX;
+	background-color: azure;
+	margin-bottom: 5px;
+}
+.exp{
+	width: 748px;
+	height: 400px;
+	display: inline-block;
+	float: right;
+	background-color: azure;
+	padding-top: 50px;
+	margin-bottom: 5px;
+}
+
+.a1{
+	display: inline-block;
+	text-align: center;
+	list-style: inline;
+	float: right;
+	padding: 10px;
+	color: black;
+
+}
+.a1:hover{
+	color: black;
+	border: 1px solid black;
+	padding: 10px;
+	box-sizing: 1opx;
+	background-color: azure;
+}
+.b1:hover{	
+	padding: 10px;
+	box-sizing: 10px;
+	background-color: azure;
+}
+.b1{
+	padding: 10px;
+	background-color: azure;
+	width: 100px;
+	border: 2px solid blue;
+}
+.p1{
+	font-size: 30px;
+}
+.prices{
+ height: 450px;
+ width:1500px ;
+ display: inline-block;
+ padding-top: 50PX;
+}
+ .v1{  
+	height: 200px;
+	width: 200px;
+	display: inline-block;
+	margin-right: 90px;
+	margin-top: 10px;
+	padding-left: px;
+	margin-bottom: 5px;
+
+
+}
+
+.v2{
+	
+	height: 200px;
+	width: 200px;
+	display: inline-block;
+	margin-right: 70px;
+	margin-top:10px;
+}
+.v3{
+	
+	height: 200px;
+	width: 200px;
+	display: inline-block;
+	margin-top: 10px;
+
+}
+.ser{
+	height: 100px;
+	width: 1500px;
+	padding-top: 50px;
+	background-color: azure;
+	margin-top: 5px;
+}
+body{
+	background-color:  #e6ecff
+;
+}
